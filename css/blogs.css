@@ -1,0 +1,12 @@
+.container .span8 .titleinfo{
+    text-align: center;
+}
+
+.container .span8 .whenPosted{
+    color: gray;
+}
+
+.blogContext{
+ font-family: 'Cabin', sans-serif; 
+ font-size: 19px;
+} 
